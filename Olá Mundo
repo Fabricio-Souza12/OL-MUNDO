@@ -1,9 +1,8 @@
 <html>
-  <head>
-  <title>
-    <h1><br>OLÁ MUNDO!</h1</br>
-  </head></title>
+  <head>OLA_MUNDO</head>
     <body>
-      <br><h3> Aprendeno introdução simples de html e Css </br></h3>
+    <title> <h3> Olá Mundo! </h3> </title>
+      <br><h2> Aprendeno introdução simples de html e Css </br></h2>
+      <br> <h1> materiais fornecidos gratuitamente através dao github do Gustavoguanabara </h2> </br>
     </body>
 </html>
