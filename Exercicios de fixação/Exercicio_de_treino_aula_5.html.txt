@@ -7,15 +7,16 @@
 <body>
 	<h1> Aula de Gerar link. </h1>
 	
-		<a href="Exercicio_de_treino_aula_1">Aula 1 Estilos de escreita e alinhamento</a>
+		<a href="Exercicio_de_treino_aula_1.html">Aula 1 Estilos de escreita e alinhamento</a>
 		<br>
-		<a href="Exercicio_de_treino_aula_2">Aula 2 Estilo de letras cor e tamanho</a>
+		<a href="Exercicio_de_treino_aula_2.html">Aula 2 Estilo de letras cor e tamanho</a>
 		<br>
-		<a href="Exercicio_de_treino_aula_3">Aula 3 Linha horizontal e tamanho</a>
+		<a href="Exercicio_de_treino_aula_3.html">Aula 3 Linha horizontal e tamanho</a>
 		<br>
-		<a href="Exercicio_de_treino_aula_4">Aula 4 Inserindo imagem e localizando-a</a>
+		<a href="Exercicio_de_treino_aula_4.html">Aula 4 Inserindo imagem e localizando-a</a>
 		<br>
 
 
 </body>
+
 </html>
