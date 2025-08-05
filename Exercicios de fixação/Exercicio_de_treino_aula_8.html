@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <title>Órgão Colegiado</title>
+
+    <table border="1" bgcolor="blue" width="100%">
+        <th><font color ="white">Cadastro de Conselho </font></th>
+    </table>
+    <br><br>
+    <form name="form_conselho" method="post"
+
+        <font size="5" face="arial"><b>Programa</font></b><br><br>
+        <table width="100%">
+        <tr>
+            <td width="15%><font size="3" face="arial"> Unidade</font></td>
+            <td><input type="text" name="codunidade" size="5"></td>
+            <td><input type="text" name="unidade" size="80"></td>
+        </tr>
+        <tr>
+           <td width="15%"><font size="3" face="arial"> Programa</font></td> 
+           <td><input type="text" name="codPrograma" size="5"></td> 
+           <td><input type="text" name="programa" size="80"></td>
+        </tr>
+    </table>
+
+    <h4>Conselho de Programa de Pós-Graduação</h4> 
+        <table width="100%"> 
+        <tr> 
+            <td width="15%"><font size="3" face="arial">Código</font></td> 
+            <td><input type="text" name="codigo" size="5"></td> 
+        </tr> 
+        <tr> 
+            <td width="15%"><font size="3" face="arial">Nome</font></td> 
+            <td><input type="text" name="nome" size="100"></td> 
+        </tr> 
+        <tr> 
+        <td width="15%"><font size="3" face="arial">Tipo</font></td>
+            <td>
+                <select name="tipo"> 
+                    <option > 
+                    <option value="1">Comissões Transitoriais de estudois
+                    <option value="2">Conselho de Departamento 
+                    <option value="3">Comissões Permanentes de Unidade Administrativa
+                    <option value="4">Comissões Permanentes de Programa de Pós-Graduação
+                    </option>
+                </select>
+            </td>
+            </tr>
+            <tr>
+                <td width="15%"><font size="3" face="arial">Fundamentos</font></td>
+                <td>
+                    <textarea name="fundamentos" rows="3" cols="50"></textarea>
+                </td>
+            </tr>
+            <tr>
+                <td align="center" colspan="2">
+                    <input type="submit" value="salvar" name="salvar">
+                </td>
+            </tr>
+
+        </table>
+    </form>
+
+
+</body>
+</html>
